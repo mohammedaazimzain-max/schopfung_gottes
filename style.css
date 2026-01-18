@@ -9,5 +9,6 @@ background: linear-gradient(rgb(246, 135, 135),rgb(190, 218, 251),rgb(156, 243, 
 text-decoration: wavy;
 font-family: sans-serif;}    
 #peppa{align-self: flex-end;}
-.fenster{display: flex; justify-content: center;}
+.centralize{display: flex; justify-content: center;}
 #erstengedicht{align-content: end;}
+
