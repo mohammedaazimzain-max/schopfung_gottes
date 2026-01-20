@@ -11,4 +11,5 @@ font-family: sans-serif;}
 #peppa{align-self: flex-end;}
 .centralize{display: flex; justify-content: center;}
 #erstengedicht{align-content: end;}
+.finale{align-content:inline;}
 
