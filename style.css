@@ -4,7 +4,7 @@
     text-decoration: wavy;
 }
 body{
-background: linear-gradient(320deg, rgb(246, 135, 135),rgb(190, 218, 251),rgb(156, 243, 124)); }
+background: linear-gradient(180deg, rgb(246, 135, 135),rgb(190, 218, 251),rgb(156, 243, 124)); }
 #qasida1 { font-size:large;
 text-decoration: wavy;
 font-family: sans-serif;}    
@@ -13,6 +13,7 @@ font-family: sans-serif;}
 .centralize{display: flex; justify-content: center;}
 #erstengedicht{align-content: end;}
 .finale{align-content:inline;}
+
 
 
 
